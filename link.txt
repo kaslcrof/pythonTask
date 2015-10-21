@@ -1,2 +1,3 @@
 http://www.intuit.ru/studies/courses/49/49/info Язык программирования Python
 http://www.intuit.ru/studies/courses/3489/731/info Практикум по алгоритмизации и программированию на Python: 
+http://pythonworld.ru/samouchitel-python Самоучитель Python
